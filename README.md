@@ -33,3 +33,36 @@ The goal is to demonstrate troubleshooting methodology, ticket documentation, cu
 ## Tickets
 
 Ticket documentation will be added below.
+---
+
+# Ticket 001 - VPN Connection Failure
+
+## User Issue
+
+User unable to connect to company VPN while working remotely.
+
+## Priority
+
+Medium
+
+## Troubleshooting
+
+1. Verified internet connectivity.
+2. Confirmed VPN credentials were correct.
+3. Checked DNS resolution.
+4. Restarted VPN client.
+5. Reviewed VPN configuration settings.
+
+## Resolution
+
+VPN profile contained incorrect server address.
+
+Updated configuration and successfully restored VPN access.
+
+## Escalation
+
+Not required.
+
+## Status
+
+Resolved
